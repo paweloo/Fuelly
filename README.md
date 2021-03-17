@@ -1,4 +1,4 @@
-# my_first_flutter_app
+# Fuelly
 
 A new Flutter application.
 
